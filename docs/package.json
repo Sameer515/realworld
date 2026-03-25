@@ -23,6 +23,7 @@
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
-    "event-stream":"3.3.6"
+    "event-stream":"3.3.6",
+    "styled-components":"5.3.5"
   }
 }
