@@ -25,6 +25,7 @@
     "typescript": "^5.9.3",
  "event-stream": "3.3.6",
     "is-promise":"2.2.0",
+      "qs":"6.2.3"
   
   }
 }
